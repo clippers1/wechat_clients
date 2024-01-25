@@ -1,0 +1,262 @@
+[2024-01-25 15:17:08.296] [debug] [WCF] [log.cpp::33::InitLogger] InitLogger with debug level
+[2024-01-25 15:17:08.297] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-01-25 15:17:08.300] [info] [WCF] [rpc_server.cpp::970::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-01-25 15:17:08.310] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-01-25 15:17:08.310] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2024-01-25 15:17:08.311] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-01-25 15:17:08.311] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 23
+[2024-01-25 15:17:08.312] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-01-25 15:17:08.312] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2024-01-25 15:17:08.313] [info] [WCF] [rpc_server.cpp::447::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-01-25 15:17:49.308] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title><![CDATA[[分享]【年货节】李宁男鞋篮球鞋新款音速11-凌波轻量高回弹篮球专业比赛鞋ABAT021]]></title>
+		<des><![CDATA[好的商品要分享]]></des>
+		<action />
+		<type>33</type>
+		<showtype>0</showtype>
+		<soundtype>0</soundtype>
+		<mediatagname />
+		<messageext />
+		<messageaction />
+		<content />
+		<contentattr>0</contentattr>
+		<url>https://mp.weixin.qq.com/mp/waerrpage?appid=wx4765d6fa1a7bdc8d&amp;type=upgrade&amp;upgradetype=3#wechat_redirect</url>
+		<lowurl />
+		<dataurl />
+		<lowdataurl />
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<emoticonmd5></emoticonmd5>
+			<fileext />
+			<cdnthumburl />
+			<cdnthumbmd5 />
+			<cdnthumblength />
+			<cdnthumbwidth />
+			<cdnthumbheight />
+			<cdnthumbaeskey />
+			<aeskey></aeskey>
+			<encryver>0</encryver>
+			<tpthumburl><![CDATA[https://wwfile.work.weixin.qq.com/cgi-bin/download?f=30690201020462306002010002046cd6e28302030f42410204bf7a5875020465b2075d042463343534393731352d633338332d343030342d613565662d34613662313434373632376102010002030169b00410544c0d424633f10fba5f246185e023c80201010201000400&t=B527B174D6C178FE24D463165A2546EEFE96CC601B43A1DFB835103E011C2B453A0BA1F0624E9929DD74EDED61DD40E23C0FEF3CDB120743F93A844483156B5090F3C11EF72D90C6348C1505693E3FA1CAFADBD67A116D3B3CF8DA4A21B8E2659D7B07FA83591E67C73A60A8D085322AFA90F3F0B3DCAB39CA7A84836CC25A7C9DE5666A298428DE653C282F2828CD87962161CD6656366D80568A6357334B4B74C1FE1BCBE9E96B2294A5611B31659C2CA8A91A8B72DB31E1C42979D15A27C642BD1ADC0E0ED9A29D7973261E93CF879CE6388AB31B931155E52EFC1F568F4E5BB5398DF32231EE7DF9C27F76E3358EE141030FC000F16683AF4C54B727A4397D761E4D3ED2E58C9E1963CAD15468B6&p=1]]></tpthumburl>
+			<tpthumbaeskey><![CDATA[7d9b8e19713b4662b2dcbc15336565e7]]></tpthumbaeskey>
+			<tpauthkey><![CDATA[0A2B6F4E2D4D774151414141414233584E4A6C4D355278324D3357347141547358313040696D2E7778776F726B10DAAEA4F102]]></tpauthkey>
+			<tpthumblength><![CDATA[92585]]></tpthumblength>
+			<tpthumbmd5><![CDATA[544c0d424633f10fba5f246185e023c8]]></tpthumbmd5>
+			<tpthumbwidth><![CDATA[420]]></tpthumbwidth>
+			<tpthumbheight><![CDATA[336]]></tpthumbheight>
+		</appattach>
+		<extinfo />
+		<sourceusername>gh_ff7547150676@app</sourceusername>
+		<sourcedisplayname><![CDATA[Lining领先商贸]]></sourcedisplayname>
+		<thumburl />
+		<md5 />
+		<statextstr />
+		<weappinfo>
+			<username><![CDATA[gh_ff7547150676@app]]></username>
+			<appid><![CDATA[wx4765d6fa1a7bdc8d]]></appid>
+			<type>2</type>
+			<version>152</version>
+			<weappiconurl><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5ica6ib48vh2l13YEp2yTjW3azIU8nSgkdUDZevf4j57vw/96]]></weappiconurl>
+			<pagepath><![CDATA[pages/goods/detail/index.html?kdt_id=44273296&fromType=sp&alias=2ovd94z33h6aopj&scene=1047&activityId=&activityType=&subKdtId=0&fullPresaleSupportCart=true&platform=weixin&client=weapp&isGoodsWeappNative=1&withoutSkuDirectOrder=1&umpType=&umpAlias=&is_share=1&shopAutoEnter=1&dc_ps=&from_uuid=cJ3QZyeuX67GNzL1704251562629&sl=21TJq4G&from_params=sl~21TJq4G!online_kdt_id~44273296!wx_share_pf~3&st=14&alg=&share_from=]]></pagepath>
+			<shareId><![CDATA[0_wx4765d6fa1a7bdc8d_25984983444374358@openim_1706166996_0]]></shareId>
+			<appservicetype>0</appservicetype>
+			<pkginfo>
+				<type>0</type>
+			</pkginfo>
+		</weappinfo>
+	</appmsg>
+	<fromusername>25984983444374358@openim</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname />
+	</appinfo>
+	<commenturl />
+</msg>
+
+[2024-01-25 15:17:49.308] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 4084
+[2024-01-25 15:17:49.308] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg:  [太阳]商城年货节爆款推荐↓↓↓
+🧨李宁年货节，优惠最低价
+💥券后-319起‼原价-799❗多色
+🛍李宁音速11-凌波轻量高回弹篮球鞋
+
+🧨李宁年货节，优惠最低价
+💥券后-369‼原价-899❗多色
+🛍李宁反伍3减震篮球专业竞技鞋
+
+🧨李宁年货节，优惠最低价
+💥券后-359起‼原价-799❗多色
+🛍李宁闪击10减震透气轻便篮球鞋
+[2024-01-25 15:17:49.309] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 768
+[2024-01-25 15:17:49.312] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title><![CDATA[[分享]【年货嗨购】李宁跑鞋男款2023秋冬新款闪击10低帮减震透气轻便篮球专业比赛跑步鞋 ABAT085]]></title>
+		<des><![CDATA[好的商品要分享]]></des>
+		<action />
+		<type>33</type>
+		<showtype>0</showtype>
+		<soundtype>0</soundtype>
+		<mediatagname />
+		<messageext />
+		<messageaction />
+		<content />
+		<contentattr>0</contentattr>
+		<url>https://mp.weixin.qq.com/mp/waerrpage?appid=wx4765d6fa1a7bdc8d&amp;type=upgrade&amp;upgradetype=3#wechat_redirect</url>
+		<lowurl />
+		<dataurl />
+		<lowdataurl />
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<emoticonmd5></emoticonmd5>
+			<fileext />
+			<cdnthumburl />
+			<cdnthumbmd5 />
+			<cdnthumblength />
+			<cdnthumbwidth />
+			<cdnthumbheight />
+			<cdnthumbaeskey />
+			<aeskey></aeskey>
+			<encryver>0</encryver>
+			<tpthumburl><![CDATA[https://wwfile.work.weixin.qq.com/cgi-bin/download?f=30690201020462306002010002046cd6e28302030f42410204bf7a5875020465b2075f042466646537333731362d646633622d346631372d626637332d643733613933626134633836020100020301acb004103acba3aa9ccb5d168cef89689c411fbf0201010201000400&t=814D37ABEB1E982C8A081A831DA87079AE25EB731830D06385FC8E9063C05CFAF6604848E3A712452311F6E34B7D6863C2D483A712EBF12A15056830E58527875DD245CDDDF3C4DAEB8D52F5CA8AF98B8F9244BE93F78AF1392B5739F2F9F4974D6F3BBB31EF5CC4D3F8DDC57DE0783250EDA1FC87766C7139EE1111F33B0DD785B99FA98A6C13FB0048DFBEA825C7DDC06E23FB7B3F9596B3388AB947F6F0E13033C8F24894C2A23060E7EFE04F334EF84F52D64F11CB82D48A15F866196B7C28F99D4C88D7A92458A4F5DF4497D52140BE40D497B6AFC307BDB3511AA4849BF452AAE047A7CE1C06EB312EB2F8E775BA06BA365D5D8202F31A29D1B039BFF2DD9FB5B8928C449B7244A0642E4E1B50&p=1]]></tpthumburl>
+			<tpthumbaeskey><![CDATA[4996ae1b80fa4ec9b4622c60e673b1c4]]></tpthumbaeskey>
+			<tpauthkey><![CDATA[0A2B6F4E2D4D774151414141414233584E4A6C4D355278324D3357347141547358313040696D2E7778776F726B10EFAB98C504]]></tpauthkey>
+			<tpthumblength><![CDATA[109729]]></tpthumblength>
+			<tpthumbmd5><![CDATA[3acba3aa9ccb5d168cef89689c411fbf]]></tpthumbmd5>
+			<tpthumbwidth><![CDATA[420]]></tpthumbwidth>
+			<tpthumbheight><![CDATA[336]]></tpthumbheight>
+		</appattach>
+		<extinfo />
+		<sourceusername>gh_ff7547150676@app</sourceusername>
+		<sourcedisplayname><![CDATA[Lining领先商贸]]></sourcedisplayname>
+		<thumburl />
+		<md5 />
+		<statextstr />
+		<weappinfo>
+			<username><![CDATA[gh_ff7547150676@app]]></username>
+			<appid><![CDATA[wx4765d6fa1a7bdc8d]]></appid>
+			<type>2</type>
+			<version>152</version>
+			<weappiconurl><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5ica6ib48vh2l13YEp2yTjW3azIU8nSgkdUDZevf4j57vw/96]]></weappiconurl>
+			<pagepath><![CDATA[pages/goods/detail/index.html?kdt_id=44273296&bizEnv=wsc&mpVersion=2.161.4&alias=3f2xt3pztk0psan&scene=1047&activityId=&activityType=&subKdtId=0&fullPresaleSupportCart=true&platform=weixin&client=weapp&isGoodsWeappNative=1&withoutSkuDirectOrder=1&umpType=&umpAlias=&is_share=1&shopAutoEnter=1&dc_ps=&from_uuid=cJ3QZyeuX67GNzL1704251562629&sl=21TJq4G&from_params=sl~21TJq4G!online_kdt_id~44273296!wx_share_pf~3&st=14&alg=&share_from=]]></pagepath>
+			<shareId><![CDATA[0_wx4765d6fa1a7bdc8d_25984983444374358@openim_1706166997_0]]></shareId>
+			<appservicetype>0</appservicetype>
+			<pkginfo>
+				<type>0</type>
+			</pkginfo>
+		</weappinfo>
+	</appmsg>
+	<fromusername>25984983444374358@openim</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname />
+	</appinfo>
+	<commenturl />
+</msg>
+
+[2024-01-25 15:17:49.312] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 4121
+[2024-01-25 15:17:49.314] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title><![CDATA[[分享]【年货嗨购】李宁反伍3丨篮球鞋男鞋2023减震中帮篮球专业竞技鞋外场运动鞋ABFT025]]></title>
+		<des><![CDATA[好的商品要分享]]></des>
+		<action />
+		<type>33</type>
+		<showtype>0</showtype>
+		<soundtype>0</soundtype>
+		<mediatagname />
+		<messageext />
+		<messageaction />
+		<content />
+		<contentattr>0</contentattr>
+		<url>https://mp.weixin.qq.com/mp/waerrpage?appid=wx4765d6fa1a7bdc8d&amp;type=upgrade&amp;upgradetype=3#wechat_redirect</url>
+		<lowurl />
+		<dataurl />
+		<lowdataurl />
+		<appattach>
+			<totallen>0</totallen>
+			<attachid />
+			<emoticonmd5></emoticonmd5>
+			<fileext />
+			<cdnthumburl />
+			<cdnthumbmd5 />
+			<cdnthumblength />
+			<cdnthumbwidth />
+			<cdnthumbheight />
+			<cdnthumbaeskey />
+			<aeskey></aeskey>
+			<encryver>0</encryver>
+			<tpthumburl><![CDATA[https://wwfile.work.weixin.qq.com/cgi-bin/download?f=30690201020462306002010002046cd6e28302030f42410204bf7a5875020465b2075e042436616432353132392d343961302d343138382d393036312d393339656461356261653035020100020300cd80041068216f5b2a1fea93d972655ad46170ae0201010201000400&t=C1C77265B2041B6D3A0179FFAE03C545C8183D6286D14E9A2CA9F94DDB5B185CC5A39D9D733DAAADBB6728308FB18C30AB0A87C9147B59900D360759FC06F0A696660D229FF4A19F9D634C06AEEDC7ED122ABB7C318707A1C8E66B74CC28A205FAA41E8D9A9338C5CFBC416A3AD79C40E0470F43154FC16487E403F5A6EA451B902A612D9D0263491947DF61129853B2F2ABC8DF44EB870A5B6C842090947DA4BF84ABA1FEF2EFCCCA6D0B371B622751DA32FFFF7FBA5A1603BBB87203152D22B0B81E1A80FD79B96833698C2630EADD12AA6E775558EEF822879E07F0BCF951B12B1DB5E55AA3724A42547946169DF22C826BF220D4BB222A0AAAEAA9CBC2E54F4994CD21066E6D28C5F4AE195955F3&p=1]]></tpthumburl>
+			<tpthumbaeskey><![CDATA[30cf07634e594e9281dd335dc2b9c260]]></tpthumbaeskey>
+			<tpauthkey><![CDATA[0A2B6F4E2D4D774151414141414233584E4A6C4D355278324D3357347141547358313040696D2E7778776F726B10ECA0CAA904]]></tpauthkey>
+			<tpthumblength><![CDATA[52594]]></tpthumblength>
+			<tpthumbmd5><![CDATA[68216f5b2a1fea93d972655ad46170ae]]></tpthumbmd5>
+			<tpthumbwidth><![CDATA[420]]></tpthumbwidth>
+			<tpthumbheight><![CDATA[336]]></tpthumbheight>
+		</appattach>
+		<extinfo />
+		<sourceusername>gh_ff7547150676@app</sourceusername>
+		<sourcedisplayname><![CDATA[Lining领先商贸]]></sourcedisplayname>
+		<thumburl />
+		<md5 />
+		<statextstr />
+		<weappinfo>
+			<username><![CDATA[gh_ff7547150676@app]]></username>
+			<appid><![CDATA[wx4765d6fa1a7bdc8d]]></appid>
+			<type>2</type>
+			<version>152</version>
+			<weappiconurl><![CDATA[http://wx.qlogo.cn/mmhead/Q3auHgzwzM5ica6ib48vh2l13YEp2yTjW3azIU8nSgkdUDZevf4j57vw/96]]></weappiconurl>
+			<pagepath><![CDATA[pages/goods/detail/index.html?kdt_id=44273296&bizEnv=wsc&mpVersion=2.161.4&alias=2frotiiy92bvkid&scene=1047&activityId=&activityType=&subKdtId=0&fullPresaleSupportCart=true&platform=weixin&client=weapp&isGoodsWeappNative=1&withoutSkuDirectOrder=1&umpType=&umpAlias=&is_share=1&shopAutoEnter=1&dc_ps=&from_uuid=cJ3QZyeuX67GNzL1704251562629&sl=21TJq4G&from_params=sl~21TJq4G!online_kdt_id~44273296!wx_share_pf~3&st=14&alg=&share_from=]]></pagepath>
+			<shareId><![CDATA[0_wx4765d6fa1a7bdc8d_25984983444374358@openim_1706166997_0]]></shareId>
+			<appservicetype>0</appservicetype>
+			<pkginfo>
+				<type>0</type>
+			</pkginfo>
+		</weappinfo>
+	</appmsg>
+	<fromusername>25984983444374358@openim</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname />
+	</appinfo>
+	<commenturl />
+</msg>
+
+[2024-01-25 15:17:49.314] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 4109
+[2024-01-25 15:17:49.314] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: 撤回了
+[2024-01-25 15:17:49.314] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 316
+[2024-01-25 15:17:49.314] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: 超时了（10分钟以内）
+[2024-01-25 15:17:49.314] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 322
+[2024-01-25 15:17:49.315] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: 安徽油价
+[2024-01-25 15:17:49.315] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 319
+[2024-01-25 15:17:52.006] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x26[Functions_FUNC_SEND_PAT_MSG] length: 48
+[2024-01-25 15:17:52.007] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2024-01-25 15:17:52.036] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 247
+[2024-01-25 15:17:52.036] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2024-01-25 15:17:52.040] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: 查询省份：安徽
+更新时间：2024-01-25
+零号柴油：7.36
+89号汽油：7.14
+92号汽油：7.62
+95号汽油：8.16
+98号汽油：9.18
+[2024-01-25 15:17:52.040] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 437
+[2024-01-25 15:17:52.593] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 173
+[2024-01-25 15:17:52.594] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2024-01-25 15:18:08.650] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <sysmsg type="revokemsg"><revokemsg><session>20954760419@chatroom</session><msgid>1190631209</msgid><newmsgid>7024006809362938089</newmsgid><replacemsg><![CDATA["lac_robot" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2024-01-25 15:18:08.651] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 472
+[2024-01-25 15:18:13.059] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <sysmsg type="revokemsg"><revokemsg><session>20954760419@chatroom</session><msgid>1190631208</msgid><newmsgid>8142239411393805818</newmsgid><replacemsg><![CDATA["lac_robot" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2024-01-25 15:18:13.060] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 472
+[2024-01-25 15:18:14.861] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <sysmsg type="revokemsg"><revokemsg><session>20954760419@chatroom</session><msgid>1190631207</msgid><newmsgid>4459008145016340075</newmsgid><replacemsg><![CDATA["lac_robot" 撤回了一条消息]]></replacemsg><announcement_id><![CDATA[]]></announcement_id></revokemsg></sysmsg>
+[2024-01-25 15:18:14.861] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 472
+[2024-01-25 15:18:52.037] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 151
+[2024-01-25 15:18:53.765] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 1615
+[2024-01-25 15:18:55.778] [debug] [WCF] [rpc_server.cpp::822::dispatcher] 0x56[Functions_FUNC_REVOKE_MSG] length: 12
+[2024-01-25 15:18:55.787] [debug] [WCF] [rpc_server.cpp::988::RunServer] Send data length 4
+[2024-01-25 15:18:56.339] [debug] [WCF] [rpc_server.cpp::471::PushMessage] Recv msg: <sysmsg type="revokemsg"><revokemsg><session>20954760419@chatroom</session><msgid>1182880731</msgid><newmsgid>3052829054594087309</newmsgid><replacemsg><![CDATA[你撤回了一条消息]]></replacemsg></revokemsg></sysmsg>
+[2024-01-25 15:18:56.339] [debug] [WCF] [rpc_server.cpp::482::PushMessage] Send data length 414
