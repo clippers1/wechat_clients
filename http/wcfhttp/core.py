@@ -13,6 +13,8 @@ from fastapi import Body, FastAPI, Query
 from pydantic import BaseModel
 from wcferry import Wcf, WxMsg
 
+from alitongyi.core import TongyiApi
+
 __version__ = "39.0.12.0"
 
 
@@ -77,6 +79,11 @@ class Http(FastAPI):
         self.add_api_route("/revoke_msg/{msgid}", self.revoke_msg_by_id, methods=["GET"], summary="撤销消息")
         
         self.add_api_route('/revoke_self_msg', self.revoke_self_msg, methods=["GET"], summary="test")
+
+        """
+        tongyi
+        """
+        self.add_api_route("/tongyi", TongyiApi.call_with_messages, methods=["POST"], summary="hello world")
 
 
     def _forward_msg(self, msg: WxMsg, cb: str):
