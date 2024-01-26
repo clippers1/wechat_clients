@@ -575,4 +575,5 @@ class Http(FastAPI):
                         print('两分钟以内: ', item)
                         time.sleep(2)
                         ret = self.revoke_msg_by_id(item['MsgSvrID'])
+        print("撤回消息：", ret)
         return ret
